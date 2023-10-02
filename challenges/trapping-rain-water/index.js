@@ -35,7 +35,4 @@ const trap = function(height) {
     return sum;       
 }
 
-// // console.log(trap([0,1,0,2,1,0,1,3,2,1,2,1])) // 6
-trap([5, 3, 0, -40, 2, 10, -10, 0]) // 9
-
 module.exports = trap;
