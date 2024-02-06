@@ -1,6 +1,7 @@
 # JavaScript Challenges
 
 ## Challenges
-- [Balanced BST](challenges/balanced-bst)
-- [Trapping Rain Water](challenges/trapping-rain-water)
+- [Balanced Binary Search Tree](challenges/balanced-bst)
 - [Clockwise Rotation](challenges/clockwise-rotation)
+- [Find the Duplicate](challenges/find-the-duplicate)
+- [Trapping Rain Water](challenges/trapping-rain-water)
