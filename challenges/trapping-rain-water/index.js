@@ -1,7 +1,7 @@
 /**
  * @param {number[]} height
  * @return {number}
- */
+*/
 
 const trap = function(height) {
     let left = new Array();
